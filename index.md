@@ -1,4 +1,3 @@
-SBI CodeSpace
 ### [GitHub Page Blogging Tool.md](content/2022/June/GitHub Page Blogging Tool.md) 
 #### Preview: 
 
