@@ -15,7 +15,7 @@ def get_article(root='content') -> List[str]:
 
 def parse_md(files: List[str]) -> str:
     s = ""
-    # s += config.TITLE + "\n"
+    s += config.TITLE + "\n"
     if config.UNDER_TITLE_TEXT:
         s += config.UNDER_TITLE_TEXT
         s += "\n"
