@@ -1,9 +1,13 @@
 SBI CodeSpace
 ### [GitHub Page Blogging Tool.md](content/2022/June/GitHub Page Blogging Tool.md) 
+#### Preview: 
+
 Published here
 Easy to use.
 This site is b
 ### [Codeforces 797 div3.md](content/2022/June/Codeforces 797 div3.md) 
+#### Preview: 
+
 Codeforces #797 (Div.3) Simple Solution
 A
 Try split the problem into three situations: `n % 3
