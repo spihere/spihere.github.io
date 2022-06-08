@@ -1,5 +1,4 @@
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: dark
+theme: jekyll-theme-cayman
 title: "SBI CodeSpace"
 description: A Place where I post my blogs
 author: [Parser](https://github.com/sbihere/) built by SBI using python with love
