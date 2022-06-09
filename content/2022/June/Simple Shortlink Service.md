@@ -1,6 +1,6 @@
 ## Simple Shortlink service
 
-Find Source Code and deploy instruction at [here](https://github.com/spihere/shortlink-py-deta)
+Find Source Code and deploy instruction [here](https://github.com/spihere/shortlink-py-deta)
 
 A free solution for building your own shortlink service.
 
