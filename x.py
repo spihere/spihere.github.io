@@ -39,7 +39,7 @@ def write_index(s: str) -> None:
 
 def push():
     articles = get_article()
-    sorted(articles, key=lambda x: os.path.getmtime(x), reverse=True)
+    articles = sorted(articles, key=lambda x: os.path.getmtime(x), reverse=True)
     parsed = parse_md(articles)
     write_index(parsed)
     os.system('git add .')
