@@ -39,7 +39,8 @@ def write_index(s: str) -> None:
 
 def push():
     articles = get_article()
-    articles = sorted(articles, key=lambda x: os.path.getmtime(x), reverse=True)
+    articles = sorted(
+        articles, key=lambda x: os.path.getmtime(x), reverse=True)
     parsed = parse_md(articles)
     write_index(parsed)
     os.system('git add .')
@@ -48,13 +49,12 @@ def push():
 
 
 def main(arg: List[str]) -> int:
-    if len(arg) == 0:
-        print("Invalid input option")
-    elif len(arg) == 1:
-        if arg[0] == 'push':
-            push()
-            exit(1)
+    if arg[0] == 'push':
+        push()
+        exit(0)
 
+    
+    print("Invalid option")
     exit(1)
 
 
