@@ -49,6 +49,11 @@ def push():
 
 
 def main(arg: List[str]) -> int:
+
+    if len(arg) == 0:
+        print("No option is given, quitting")
+        exit(1)
+    
     if arg[0] == 'push':
         push()
         exit(0)
