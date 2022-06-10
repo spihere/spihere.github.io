@@ -25,9 +25,16 @@ def parse_md(files: List[str]) -> str:
         s += f'Last Modified: {datetime.fromtimestamp(os.path.getmtime(file)).strftime("%m-%d-%y")}' + '<br>'
         s += f'[View in Github]({config.ORIGIN + "/blob/main/" + file}) for better experience if this document contains Latex Formula\n'
         s += '#### Preview: '+'\n\n'
-        with open(file, mode='r') as f:
-            s += unmark(f.read()[:config.DESC_LENGTH]).replace('\n', '<br>\n') + '...\n'
+        # with open(file, mode='r') as f:
+        #     s += unmark(f.read()[:config.DESC_LENGTH]).replace('\n', '<br>\n') + '...\n'
 
+        s += "```\n"
+
+        with open(file, mode='r') as f:
+            s += unmark(f.read()[:config.DESC_LENGTH]).replace('\n', '<br>\n') + '...\n'        
+        
+        s += "```\n"        
+        
     s += "\n"
     s += config.FOOTER + "\n"
     s += "\n"
