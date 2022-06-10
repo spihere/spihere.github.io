@@ -22,7 +22,7 @@ def parse_md(files: List[str]) -> str:
 
     for file in files:
         s += '### [' + file.split('/')[-1] + f']({file}) \n'
-        s += f'Last Modified: {datetime.fromtimestamp(os.path.getmtime(file)).strftime("%m-%d-%y")}' + "\n"
+        s += f'Last Modified: {datetime.fromtimestamp(os.path.getmtime(file)).strftime("%m-%d-%y")}' + '\n'
         s += f'View in [Github]({config.ORIGIN + "/blob/main/" + file}) for better experience if this document contains Latex Formula\n'
         s += '#### Preview: '+'\n\n'
         with open(file, mode='r') as f:
