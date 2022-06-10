@@ -121,7 +121,7 @@ void solve()
 1. Sum the value of each $x / k$ where $/$ is integer division for each goods to a value $ans$.
 2. Create a new array using the remainder of the last step.
 3. Sort the array and use binary search to find the minimun $x$ where $x  >= k - remainder$.
-4. If found, add one to $ans$ and erase both elements. Else, continue to the next element.
+4. Add one to $ans$ and erase both elements.
 
 Code: 
 ```cpp
