@@ -1,6 +1,6 @@
 SBI CodeSpace
 ### [Codeforces 797 div3.md](content/2022/June/Codeforces 797 div3.md) 
-Last Modified: 06-10-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Codeforces 797 div3.md) for better experience if this document contains Latex Formula
+Last Modified: 06-10-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Codeforces 797 div3.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
 #### Preview: 
 
 ```
@@ -10,7 +10,7 @@ A
 Try split the problem into three situations: $n \bmod 3 =...
 ```
 ### [Markdown Latex Template.md](content/2022/June/Markdown Latex Template.md) 
-Last Modified: 06-10-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Markdown Latex Template.md) for better experience if this document contains Latex Formula
+Last Modified: 06-10-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Markdown Latex Template.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
 #### Preview: 
 
 ```
@@ -21,7 +21,7 @@ Usage
 pandoc examp...
 ```
 ### [GitHub Page Blogging Tool.md](content/2022/June/GitHub Page Blogging Tool.md) 
-Last Modified: 06-09-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/GitHub Page Blogging Tool.md) for better experience if this document contains Latex Formula
+Last Modified: 06-09-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/GitHub Page Blogging Tool.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
 #### Preview: 
 
 ```
@@ -32,7 +32,7 @@ A Tool that allows you to build your blog using Github Pages
 **THIS IS A WIP...
 ```
 ### [Simple Shortlink Service.md](content/2022/June/Simple Shortlink Service.md) 
-Last Modified: 06-09-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Simple Shortlink Service.md) for better experience if this document contains Latex Formula
+Last Modified: 06-09-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Simple Shortlink Service.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
 #### Preview: 
 
 ```
