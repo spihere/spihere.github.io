@@ -1,7 +1,7 @@
 # Codeforces #797 (Div.3) Simple Solution
 
 ## A
-Try split the problem into three situations: `n % 3 == 0`, `n % 3 == 1`, `n % 3 == 2`. Then it can be solved easily.
+Try split the problem into three situations: $n \bmod 3 = 0$, $n \bmod 3 = 1$, $n \bmod 3 = 2$. Then it can be solved easily.
 
 Code:
 ```cpp

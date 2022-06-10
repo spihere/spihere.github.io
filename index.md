@@ -1,4 +1,16 @@
 SBI CodeSpace
+### [Codeforces 797 div3.md](content/2022/June/Codeforces 797 div3.md) 
+Last Modified: 06-10-22<br>[View on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Codeforces 797 div3.md) for better experience if this document contains Latex Formula
+#### Preview: 
+
+```
+Codeforces #797 (Div.3) Simple Solution
+A
+Try split the problem into three situations: $n \bmod 3 = 0$, $n \bmod 3 = 1$, $n \bmod 3 = 2$. Then it can be solved easily.
+Code:
+```cpp
+void solve()...
+```
 ### [Markdown Latex Template.md](content/2022/June/Markdown Latex Template.md) 
 Last Modified: 06-10-22<br>[View on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Markdown Latex Template.md) for better experience if this document contains Latex Formula
 #### Preview: 
@@ -32,20 +44,6 @@ A free solution for building your own shortlink service.
 Usage
 
 Install...
-```
-### [Codeforces 797 div3.md](content/2022/June/Codeforces 797 div3.md) 
-Last Modified: 06-08-22<br>[View on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Codeforces 797 div3.md) for better experience if this document contains Latex Formula
-#### Preview: 
-
-```
-Codeforces #797 (Div.3) Simple Solution
-A
-Try split the problem into three situations: n % 3 == 0, n % 3 == 1, n % 3 == 2. Then it can be solved easily.
-Code:
-```cpp
-void solve()
-{
-    in...
 ```
 
 [Parser](https://github.com/sbihere/) built by SPI using python with love
