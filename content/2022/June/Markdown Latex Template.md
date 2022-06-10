@@ -1,6 +1,6 @@
 ## Markdown Latex Template QuickNote
 
-Original Project Site: (https://github.com/Wandmalfarbe/pandoc-latex-template)
+Original Project Site: [https://github.com/Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
 Usage
 ```shell
