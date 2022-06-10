@@ -44,5 +44,5 @@ Usage
 Install...
 ```
 
-[Parser](https://github.com/sbihere/) built by SPI using python with love
+[Parser](https://github.com/spihere/) built by SPI using python with love
 
