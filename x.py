@@ -23,7 +23,7 @@ def parse_md(files: List[str]) -> str:
     for file in files:
         s += '### [' + file.split('/')[-1] + f']({file}) \n'
         s += f'Last Modified: {datetime.fromtimestamp(os.path.getmtime(file)).strftime("%m-%d-%y")} '
-        s += f'Open in [Github]({config.ORIGIN + "/blob/main/" + file})\n'
+        s += f'Read in [Github]({config.ORIGIN + "/blob/main/" + file}) for better experience\n'
         s += '#### Preview: '+'\n\n'
         with open(file, mode='r') as f:
             s += unmark(f.read()[:config.DESC_LENGTH]) + '\n'
