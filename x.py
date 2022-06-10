@@ -30,7 +30,7 @@ def parse_md(files: List[str]) -> str:
 
     s += "\n"
     s += config.FOOTER + "\n"
-
+    s += "\n"
     return s
 
 
