@@ -21,7 +21,7 @@ def parse_md(files: List[str]) -> str:
         s += "\n"
 
     for file in files:
-        s += '### [' + file.split('/')[-1] + f']({file})'
+        s += '### [' + file.split('/')[-1] + f']({file}) \n'
         s += f'Last Modified: {datetime.fromtimestamp(os.path.getmtime(file)).strftime("%m-%d-%y")}'
         s += '#### Preview: '+'\n\n'
         with open(file, mode='r') as f:
