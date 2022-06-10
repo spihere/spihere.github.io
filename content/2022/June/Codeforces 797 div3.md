@@ -127,6 +127,7 @@ Code:
 ```cpp
 typedef unsigned long long ull;
 typedef vector<int> vi;
+
 void solve()
 {
     int n, k;
