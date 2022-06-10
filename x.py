@@ -53,7 +53,7 @@ def push():
 def main(arg: List[str]) -> int:
 
     if len(arg) == 0:
-        print("No option is given, quitting")
+        print("No option is given, quitting.\nHint: Use `./x.py push`.")
         exit(1)
     
     if arg[0] == 'push':
