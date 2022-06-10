@@ -5,11 +5,9 @@ Last Modified: 06-10-22<br>[View on Github](https://github.com/spihere/spihere.g
 
 ```
 Codeforces #797 (Div.3) Simple Solution
+Original Problems: https://codeforces.com/contest/1690
 A
-Try split the problem into three situations: $n \bmod 3 = 0$, $n \bmod 3 = 1$, $n \bmod 3 = 2$. Then it can be solved easily.
-Code:
-```cpp
-void solve()...
+Try split the problem into three situations: $n \bmod 3 =...
 ```
 ### [Markdown Latex Template.md](content/2022/June/Markdown Latex Template.md) 
 Last Modified: 06-10-22<br>[View on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Markdown Latex Template.md) for better experience if this document contains Latex Formula

@@ -1,5 +1,7 @@
 # Codeforces #797 (Div.3) Simple Solution
 
+Original Problems: [https://codeforces.com/contest/1690](https://codeforces.com/contest/1690)
+
 ## A
 Try split the problem into three situations: $n \bmod 3 = 0$, $n \bmod 3 = 1$, $n \bmod 3 = 2$. Then it can be solved easily.
 
