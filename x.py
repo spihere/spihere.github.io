@@ -26,7 +26,7 @@ def parse_md(files: List[str]) -> str:
         s += f'[View in Github]({config.ORIGIN + "/blob/main/" + file}) for better experience if this document contains Latex Formula\n'
         s += '#### Preview: '+'\n\n'
         with open(file, mode='r') as f:
-            s += '> ' + unmark(f.read()[:config.DESC_LENGTH]).replace('\n', '<br>\n> ') + '...\n'
+            s += unmark(f.read()[:config.DESC_LENGTH]).replace('\n', '<br>\n> ') + '...\n'
 
     s += "\n"
     s += config.FOOTER + "\n"
