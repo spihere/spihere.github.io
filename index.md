@@ -1,4 +1,10 @@
 SBI CodeSpace
+### [Markdown Latex Template.md](content/2022/June/Markdown Latex Template.md) 
+Last Modified: 06-10-22 Read in [Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Markdown Latex Template.md) for better experience
+#### Preview: 
+
+Markdown Latex Template QuickNote
+Original Project Site: https://github.com/Wandmalfarbe/pandoc-
 ### [GitHub Page Blogging Tool.md](content/2022/June/GitHub Page Blogging Tool.md) 
 Last Modified: 06-09-22 Read in [Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/GitHub Page Blogging Tool.md) for better experience
 #### Preview: 
