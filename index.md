@@ -20,4 +20,4 @@ Codeforces #797 (Div.3) Simple Solution
 A
 Try split the problem into three situations: `n % 3
 
-[Parser](https://github.com/sbihere/) built by SBI using python with love
+[Parser](https://github.com/sbihere/) built by SPI using python with love
