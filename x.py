@@ -31,7 +31,7 @@ def parse_md(files: List[str]) -> str:
         s += "```\n"
 
         with open(file, mode='r') as f:
-            s += unmark(f.read()[:config.DESC_LENGTH]).replace('\n', '<br>\n') + '...\n'        
+            s += unmark(f.read()[:config.DESC_LENGTH]) + '...\n'        
         
         s += "```\n"        
         
