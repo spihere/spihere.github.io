@@ -1,4 +1,30 @@
 SBI CodeSpace
+### [Educational Codeforces Round 130 Solution.md](content/2022/June/Educational Codeforces Round 130 Solution.md) 
+Last Modified: 06-14-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Educational Codeforces Round 130 Solution.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
+#### Preview: 
+
+```
+Educational Codeforces Round 130
+Origin Problem set can be fine here
+A. Parkway Walk
+If the amount of energy is capable of allowing us to travel withou...
+```
+### [DP Notes.md](content/2022/June/DP Notes.md) 
+Last Modified: 06-11-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/DP Notes.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
+#### Preview: 
+
+```
+DP Problemss I've met
+LC22
+Note: BFS-Like Solution
+```cpp
+class Solution
+{
+public:
+    vector<string> generateParenthesis(int n)
+    {
+        deque<pair\<string, pair\<int, int>>> dq;...
+```
 ### [Codeforces 797 div3.md](content/2022/June/Codeforces 797 div3.md) 
 Last Modified: 06-10-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Codeforces 797 div3.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
 #### Preview: 
