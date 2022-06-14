@@ -9,6 +9,15 @@ Origin Problem set can be fine here
 A. Parkway Walk
 If the amount of energy is capable of allowing us to travel withou...
 ```
+### [Rust Minimum Competitive Contest Template.md](content/2022/June/Rust Minimum Competitive Contest Template.md) 
+Last Modified: 06-14-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/Rust Minimum Competitive Contest Template.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
+#### Preview: 
+
+```
+Minimum Template
+This is the minimum template that only implements BufferedReader and BufferedWriter. Unlike std::io::BufReader, you can simply use sc.nextInt() to get next int.
+```rust...
+```
 ### [DP Notes.md](content/2022/June/DP Notes.md) 
 Last Modified: 06-11-22<br>[Read on Github](https://github.com/spihere/spihere.github.io/blob/main/content/2022/June/DP Notes.md) for better experience if this document contains [Latex](https://en.wikibooks.org/wiki/LaTeX/Mathematics) Expressions
 #### Preview: 

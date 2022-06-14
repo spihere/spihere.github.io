@@ -22,7 +22,7 @@ fn slove(sc: &mut Scanner, wr: &mut Writer) {
 
 ### B. Promo
 
-After getting all of the input, sort the array reversly and calulate prefix sum of it. For each pair of $x$ and $y$, the maximum value of free item would be $prefix[x] - prefix[x-y]$.
+After getting all of the input, sort the array reversely and calculate prefix sum of it. For each pair of $x$ and $y$, the maximum value of free item would be $prefix[x] - prefix[x-y]$.
 
 Code:
 ```rust
@@ -86,7 +86,7 @@ fn slove(sc: &mut Scanner, _wr: &mut Writer) -> bool {
 
 ### D. Guess The String
 
-For character at a index $i$, check $q2(x, i)$ where $0 <= x < y$. If result of q2 equals to the unique letters in the range, the letter at $i$ must equal to the letter on position`$x$. We can then use a binary search to imporve this algorithm to decrease the amount of query for each letter to $O(log(n))$. If there is no such result even when $x = 0$, the letter must be a new letter. Use q1 on it.
+For character at a index $i$, check $q2(x, i)$ where $0 <= x < y$. If result of q2 equals to the unique letters in the range, the letter at $i$ must equal to the letter on position`$x$. We can then use a binary search to improve this algorithm to decrease the amount of query for each letter to $O(log(n))$. If there is no such result even when $x = 0$, the letter must be a new letter. Use q1 on it.
 
 Total Number of query2 would be `O(nlog(n))`. 
 
